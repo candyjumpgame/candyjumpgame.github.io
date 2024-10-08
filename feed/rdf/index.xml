@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="/">
+	<title>Candy Jump</title>
+	<link>/</link>
+	<description></description>
+	<dc:date>2024-09-21T09:20:21Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="/curve-ball-3d.html"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="/curve-ball-3d.html">
+	<title>Curve Ball 3D</title>
+	<link>/curve-ball-3d.html</link>
+
+	<dc:creator><![CDATA[admin-pl]]></dc:creator>
+	<dc:date>2024-09-20T17:05:29Z</dc:date>
+			<dc:subject><![CDATA[Casual Games]]></dc:subject>
+
+			<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+	
+	</item>
+</rdf:RDF>
